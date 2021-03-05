@@ -6,6 +6,9 @@
 - 🌍 [My website (in maintenance)][mywebsite]
 - 📝 [HelloCoding Author Page (german)][hellocodingauthorpage]
 
+and I'm a web- and server-developer from Munich Germany. At age 13 I already started automating processes on my Windows PC with batch and two years later with Python and Linux. When I finished school, I started an apprenticeship as an IT specialist for application development at a small company.  
+
+At the beginning of 2019, I dared to experiment with using only Linux for a month. Even though I'm an absolute power user as far as my PC is concerned, I was able to cope due to my existing Linux server knowledge and switched completely to Linux at the beginning of 2020. I don't miss my old Windows system, but I think it's a shame when some developers only develop for one operating system, especially when you use technologies that run cross-platform and on multiple operating systems.
 
 
 <div>
