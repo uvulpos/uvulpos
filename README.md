@@ -3,7 +3,7 @@
 [![HelloCoding][hellocodingarticlebadge]][hellocodingauthorpage]
 [![Discord][discordshield]][hellocodingdiscordinvite]
 
-- 🌍 [My website (in maintenance)][mywebsite]
+- 🌍 [My website][mywebsite]
 - 📝 [HelloCoding Author Page (german)][hellocodingauthorpage]
 
 
