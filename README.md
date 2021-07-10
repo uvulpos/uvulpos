@@ -24,7 +24,7 @@ At the beginning of 2019, I dared to experiment with using Linux only on Desktop
 <!-- links -->
 
 <!-- me -->
-[mywebsite]: https://timriedl.com
+[mywebsite]: https://www.timriedl.com/
 
 <!-- HelloCoding -->
 [hellocodingarticlebadge]: https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fhellocoding.de%2Fapi%2Fbadge%2Ftim-riedl
