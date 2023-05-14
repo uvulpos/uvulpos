@@ -3,7 +3,7 @@
 <hr>
 <div>
   <div>
-    <p>just a passionate software developer with a homelab</p>
+    <p>👉 just a passionate software developer with an awesome homelab</p>
   </div>
   <div>
     <br>
